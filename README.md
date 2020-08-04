@@ -3,13 +3,7 @@
   ![Proffy - Next Level Week 2 - Rocketseat](./rdm/logo.png)
 
 </div>
-<h1 align="center">Welcome to Proffy-web 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-</p>
+<h1 align="center">Welcome to Proffy 👋</h1>
 
 <div align="center">
 
@@ -43,7 +37,7 @@ Also he uses some kind of hack in his life, but don't tell everyone.
 
 </div>
 
-## 💻 Stack
+## 💻 3. Stack
 
 We choose our stack based on the best spaceship 🚀 technologies available.
 
@@ -53,13 +47,13 @@ We choose our stack based on the best spaceship 🚀 technologies available.
 - Express
 - SCSS
 
-## Install
+## 🗳 Install
 
 ```sh
 yarn install
 ```
 
-## Usage
+## 🚀 Usage
 
 ```sh
 yarn start
