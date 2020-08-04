@@ -1,44 +1,73 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+  ![Proffy - Next Level Week 2 - Rocketseat](./rdm/logo.png)
 
-In the project directory, you can run:
+</div>
+<h1 align="center">Welcome to Proffy-web 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
-### `yarn start`
+<div align="center">
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```typescript
+console.log("🚀 Project Made in Next Level Week. Build with ❤️")
+```
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+</div>
 
-### `yarn test`
+## 1. What's Is Proffy?
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+📖 Proffy is a plataform for connection teachers and students around the world.
 
-### `yarn build`
+**You deserve the best of education, connect with the best teachers in each subject.**
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+*Proffy* is a cute way of saying "hey teacher" in fundamental schools in Brazil.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## 🎨 2. Design
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<div align="center">
 
-### `yarn eject`
+![Cover Web - NLW2 - Proffy](./rdm/proffy-web.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Design created by:**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[![Tiago Luchtenberg](./rdm/designer.png)](https://www.instagram.com/tiagoluchtenberg/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Tiago is a methodical guy and passionate about design.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Also he uses some kind of hack in his life, but don't tell everyone.
 
-## Learn More
+</div>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 💻 Stack
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+We choose our stack based on the best spaceship 🚀 technologies available.
+
+- TypeScript
+- React Native
+- Expo
+- Express
+- SCSS
+
+## Install
+
+```sh
+yarn install
+```
+
+## Usage
+
+```sh
+yarn start
+```
+
+## Author
+
+👤 **Kore**
+
+* Website: korex.xyz
+* Github: [@korex71](https://github.com/korex71)
