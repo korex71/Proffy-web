@@ -63,5 +63,5 @@ yarn start
 
 👤 **Kore**
 
-* Website: korex.xyz
+* Website: 
 * Github: [@korex71](https://github.com/korex71)
